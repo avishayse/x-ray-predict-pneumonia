@@ -1,0 +1,12 @@
+---
+:tree:
+  output/first_try.h5:
+    :sha1: 862775e9a4dca70c80fabe7835076de2fdca8362
+    :commit_time: '2021-08-13T11:05:08.307Z'
+    :last_modified: 1628848727.2223408
+  output/pneumonia_model.h5:
+    :sha1: 241f944c994aa4bcecdb6cb7e99739afeb4d1bdf
+    :commit_time: '2021-08-13T11:05:08.307Z'
+    :last_modified: 1628848761.7770648
+  output/: 
+:commit: 92e5773073c0bb218666a2cd36ca94f99446df67
