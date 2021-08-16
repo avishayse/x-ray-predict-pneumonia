@@ -47,25 +47,25 @@ print(os.listdir("/data/xray-images/chest_xray/val/"))
 # In[6]:
 
 
-img_name = 'NORMAL2-IM-0588-0001.jpeg'
-img_normal = load_img('/data/xray-images/chest_xray/train/NORMAL/' + img_name)
+# img_name = 'NORMAL2-IM-0588-0001.jpeg'
+# img_normal = load_img('/data/xray-images/chest_xray/train/NORMAL/' + img_name)
 
-print('NORMAL')
-plt.imshow(img_normal)
-plt.show()
-
-
-# ### Check an image in the PNEUMONIA training set
-
-# In[7]:
+# print('NORMAL')
+# plt.imshow(img_normal)
+# plt.show()
 
 
-img_name = 'person63_bacteria_306.jpeg'
-img_pneumonia = load_img('/data/xray-images/chest_xray/train/PNEUMONIA/' + img_name)
+# # ### Check an image in the PNEUMONIA training set
 
-print('PNEUMONIA')
-plt.imshow(img_pneumonia)
-plt.show()
+# # In[7]:
+
+
+# img_name = 'person63_bacteria_306.jpeg'
+# img_pneumonia = load_img('/data/xray-images/chest_xray/train/PNEUMONIA/' + img_name)
+
+# print('PNEUMONIA')
+# plt.imshow(img_pneumonia)
+# plt.show()
 
 
 # ### Initialize variables
